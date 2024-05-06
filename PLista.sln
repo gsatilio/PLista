@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLista", "PLista\PLista.csproj", "{609AD8DE-A78B-4068-9E66-B7470505074C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609AD8DE-A78B-4068-9E66-B7470505074C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609AD8DE-A78B-4068-9E66-B7470505074C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609AD8DE-A78B-4068-9E66-B7470505074C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609AD8DE-A78B-4068-9E66-B7470505074C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99C7F881-8EE0-4C6E-8BCD-25EC1A3D6E03}
+	EndGlobalSection
+EndGlobal
